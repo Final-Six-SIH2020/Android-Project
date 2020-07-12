@@ -5,17 +5,31 @@ Files and folder related to mobile app development
 
 Directory structure example:
 
-1) Name based
 
-Android-Project
- |_ Khem
- |_ Vibha
- |_ Kashish
+```bash
+* Name based
+|-- Android-Project
+    |-- Khem
+    |   |-- src
+    |   |-- other files abd folders
+    |-- Vibha
+    |   |-- src
+    |   |-- other files abd folders
+    |-- Kashih
+    |   |-- src
+    |   |-- other files abd folders
+    |-- README.md
  
- 
-2) Task-Based
- |_ Main app
- |_ Navigation
- |_ Crowdsource database
- |_ ...
-
+* Task-Based
+|-- Android-Project
+    |-- Main
+    |   |-- src
+    |   |-- other files abd folders
+    |-- Navigation
+    |   |-- src
+    |   |-- other files abd folders
+    |-- Crowdsource
+    |   |-- src
+    |   |-- other files abd folders
+    |-- README.md
+```
